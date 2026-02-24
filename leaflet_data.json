@@ -1,0 +1,366 @@
+{
+  "cities": [
+    {
+      "city": "Ada",
+      "lat": 40.768056,
+      "lon": -83.825278,
+      "size": 5.334,
+      "color": "orange",
+      "tooltip": "<b>Ada</b><br><b>Population:</b> 5334<br><b>Sites with events:</b><br>Public Library<br><b>Covered by events in:</b><br>Alger"
+    },
+    {
+      "city": "Alger",
+      "lat": 40.709722,
+      "lon": -83.844167,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>Alger</b><br><b>Population:</b> 837<br><b>Sites with events:</b><br>Alger Food Pantry<br>Public Library<br><b>Covered by events in:</b><br>Ada"
+    },
+    {
+      "city": "Bluffton",
+      "lat": 40.889444,
+      "lon": -83.879167,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>Bluffton</b><br><b>Population:</b> 3967<br><b>Sites with events:</b><br>Bluffton Library"
+    },
+    {
+      "city": "Cairo",
+      "lat": 40.830833,
+      "lon": -84.084444,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Cairo</b><br><b>Population:</b> 517<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Lima<br>Columbus Grove"
+    },
+    {
+      "city": "Caledonia",
+      "lat": 40.636389,
+      "lon": -82.969444,
+      "size": 5,
+      "color": "grey",
+      "tooltip": "<b>Caledonia</b><br><b>Population:</b> 560<br><b>No Healthwise Clinics</b>"
+    },
+    {
+      "city": "Carey",
+      "lat": 40.949444,
+      "lon": -83.376111,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>Carey</b><br><b>Population:</b> 3565<br><b>Sites with events:</b><br>Public Library"
+    },
+    {
+      "city": "Columbus Grove",
+      "lat": 40.920556,
+      "lon": -84.059722,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>Columbus Grove</b><br><b>Population:</b> 2160<br><b>Sites with events:</b><br>Public Library"
+    },
+    {
+      "city": "Continental",
+      "lat": 41.100278,
+      "lon": -84.2725,
+      "size": 5,
+      "color": "grey",
+      "tooltip": "<b>Continental</b><br><b>Population:</b> 1102<br><b>No Healthwise Clinics</b>"
+    },
+    {
+      "city": "Cridersville",
+      "lat": 40.664722,
+      "lon": -84.130833,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Cridersville</b><br><b>Population:</b> 1791<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Lima"
+    },
+    {
+      "city": "Delphos",
+      "lat": 40.861111,
+      "lon": -84.35,
+      "size": 7.117,
+      "color": "orange",
+      "tooltip": "<b>Delphos</b><br><b>Population:</b> 7117<br><b>Sites with events:</b><br>Delphos Senior Center"
+    },
+    {
+      "city": "Dunkirk",
+      "lat": 40.788056,
+      "lon": -83.642778,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>Dunkirk</b><br><b>Population:</b> 774<br><b>Sites with events:</b><br>Public Library"
+    },
+    {
+      "city": "Elida",
+      "lat": 40.786667,
+      "lon": -84.198889,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Elida</b><br><b>Population:</b> 1923<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Lima<br>Delphos"
+    },
+    {
+      "city": "Forest",
+      "lat": 40.805,
+      "lon": -83.511667,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Forest</b><br><b>Population:</b> 1350<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Dunkirk"
+    },
+    {
+      "city": "Fort Jennings",
+      "lat": 40.906944,
+      "lon": -84.299722,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Fort Jennings</b><br><b>Population:</b> 525<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Delphos"
+    },
+    {
+      "city": "Glandorf",
+      "lat": 41.027778,
+      "lon": -84.079167,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Glandorf</b><br><b>Population:</b> 969<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Columbus Grove"
+    },
+    {
+      "city": "Kalida",
+      "lat": 40.985278,
+      "lon": -84.194444,
+      "size": 5,
+      "color": "grey",
+      "tooltip": "<b>Kalida</b><br><b>Population:</b> 1455<br><b>No Healthwise Clinics</b>"
+    },
+    {
+      "city": "Kenton",
+      "lat": 40.646667,
+      "lon": -83.6225,
+      "size": 7.947,
+      "color": "orange",
+      "tooltip": "<b>Kenton</b><br><b>Population:</b> 7947<br><b>Sites with events:</b><br>HardinCrest<br>Kenton YMCA<br>YMCA<br>Public Library<br>HardinCrest<br>HardinCrest <br>Kenton Seton<br>Seton Kenton"
+    },
+    {
+      "city": "La Rue",
+      "lat": 40.576389,
+      "lon": -83.384722,
+      "size": 5,
+      "color": "grey",
+      "tooltip": "<b>La Rue</b><br><b>Population:</b> 676<br><b>No Healthwise Clinics</b>"
+    },
+    {
+      "city": "Leipsic",
+      "lat": 41.113889,
+      "lon": -83.9625,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>Leipsic</b><br><b>Population:</b> 2177<br><b>Sites with events:</b><br>Public Library"
+    },
+    {
+      "city": "Lima",
+      "lat": 40.746389,
+      "lon": -84.123333,
+      "size": 35.579,
+      "color": "orange",
+      "tooltip": "<b>Lima</b><br><b>Population:</b> 35579<br><b>Sites with events:</b><br>Lima ODB<br>Christian Corner<br>Public Library<br>Restore"
+    },
+    {
+      "city": "Marion",
+      "lat": 40.62,
+      "lon": -83.126389,
+      "size": 35.999,
+      "color": "orange",
+      "tooltip": "<b>Marion</b><br><b>Population:</b> 35999<br><b>Sites with events:</b><br>Public Library"
+    },
+    {
+      "city": "Minster",
+      "lat": 40.393889,
+      "lon": -84.376111,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Minster</b><br><b>Population:</b> 3046<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>New Bremen"
+    },
+    {
+      "city": "Mount Victory",
+      "lat": 40.533611,
+      "lon": -83.521111,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>Mount Victory</b><br><b>Population:</b> 601<br><b>Sites with events:</b><br>Public Library"
+    },
+    {
+      "city": "Nevada",
+      "lat": 40.818611,
+      "lon": -83.128333,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Nevada</b><br><b>Population:</b> 706<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Upper Sandusky"
+    },
+    {
+      "city": "New Bremen",
+      "lat": 40.436389,
+      "lon": -84.379444,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>New Bremen</b><br><b>Population:</b> 3034<br><b>Sites with events:</b><br>Public Library"
+    },
+    {
+      "city": "New Knoxville",
+      "lat": 40.498333,
+      "lon": -84.311111,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>New Knoxville</b><br><b>Population:</b> 946<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>New Bremen"
+    },
+    {
+      "city": "Ottawa",
+      "lat": 41.008333,
+      "lon": -84.0375,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Ottawa</b><br><b>Population:</b> 4456<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Leipsic<br>Columbus Grove"
+    },
+    {
+      "city": "Ottoville",
+      "lat": 40.934167,
+      "lon": -84.338333,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Ottoville</b><br><b>Population:</b> 966<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Delphos"
+    },
+    {
+      "city": "Pandora",
+      "lat": 40.9475,
+      "lon": -83.956667,
+      "size": 5,
+      "color": "yellow",
+      "tooltip": "<b>Pandora</b><br><b>Population:</b> 1204<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>Columbus Grove"
+    },
+    {
+      "city": "Prospect",
+      "lat": 40.453889,
+      "lon": -83.184722,
+      "size": 5,
+      "color": "grey",
+      "tooltip": "<b>Prospect</b><br><b>Population:</b> 1067<br><b>No Healthwise Clinics</b>"
+    },
+    {
+      "city": "Saint Marys",
+      "lat": 40.548889,
+      "lon": -84.373333,
+      "size": 8.397,
+      "color": "yellow",
+      "tooltip": "<b>Saint Marys</b><br><b>Population:</b> 8397<br><b>No Healthwise Clinics</b><br><b>Covered by events in:</b><br>New Bremen"
+    },
+    {
+      "city": "Spencerville",
+      "lat": 40.708056,
+      "lon": -84.352778,
+      "size": 5,
+      "color": "grey",
+      "tooltip": "<b>Spencerville</b><br><b>Population:</b> 2198<br><b>No Healthwise Clinics</b>"
+    },
+    {
+      "city": "Sycamore",
+      "lat": 40.951667,
+      "lon": -83.170833,
+      "size": 5,
+      "color": "grey",
+      "tooltip": "<b>Sycamore</b><br><b>Population:</b> 793<br><b>No Healthwise Clinics</b>"
+    },
+    {
+      "city": "Upper Sandusky",
+      "lat": 40.831111,
+      "lon": -83.2625,
+      "size": 6.698,
+      "color": "orange",
+      "tooltip": "<b>Upper Sandusky</b><br><b>Population:</b> 6698<br><b>Sites with events:</b><br>Public Library"
+    },
+    {
+      "city": "Wapakoneta",
+      "lat": 40.565556,
+      "lon": -84.191111,
+      "size": 9.957,
+      "color": "orange",
+      "tooltip": "<b>Wapakoneta</b><br><b>Population:</b> 9957<br><b>Sites with events:</b><br>Wapak UCC"
+    },
+    {
+      "city": "Waynesfield",
+      "lat": 40.6025,
+      "lon": -83.973889,
+      "size": 5,
+      "color": "orange",
+      "tooltip": "<b>Waynesfield</b><br><b>Population:</b> 749<br><b>Sites with events:</b><br>Public Library"
+    }
+  ],
+  "lines": [
+    {
+      "from": "Lima",
+      "to": "Elida"
+    },
+    {
+      "from": "Lima",
+      "to": "Cairo"
+    },
+    {
+      "from": "Lima",
+      "to": "Cridersville"
+    },
+    {
+      "from": "Alger",
+      "to": "Ada"
+    },
+    {
+      "from": "Ada",
+      "to": "Alger"
+    },
+    {
+      "from": "Columbus Grove",
+      "to": "Ottawa"
+    },
+    {
+      "from": "Columbus Grove",
+      "to": "Cairo"
+    },
+    {
+      "from": "Columbus Grove",
+      "to": "Glandorf"
+    },
+    {
+      "from": "Columbus Grove",
+      "to": "Pandora"
+    },
+    {
+      "from": "Leipsic",
+      "to": "Ottawa"
+    },
+    {
+      "from": "Dunkirk",
+      "to": "Forest"
+    },
+    {
+      "from": "New Bremen",
+      "to": "Minster"
+    },
+    {
+      "from": "New Bremen",
+      "to": "Saint Marys"
+    },
+    {
+      "from": "New Bremen",
+      "to": "New Knoxville"
+    },
+    {
+      "from": "Upper Sandusky",
+      "to": "Nevada"
+    },
+    {
+      "from": "Delphos",
+      "to": "Elida"
+    },
+    {
+      "from": "Delphos",
+      "to": "Ottoville"
+    },
+    {
+      "from": "Delphos",
+      "to": "Fort Jennings"
+    }
+  ]
+}
